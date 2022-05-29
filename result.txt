@@ -1,5 +1,0 @@
-number of points :24
-radius :8
-Accuracy : 64.72303206997084%
-Confusion matrix : [[222   0]
- [121   0]]
