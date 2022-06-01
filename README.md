@@ -1,8 +1,6 @@
 # Hand-writting-Classification
 ### How to run ⚙
-    1.run code file to extract the features for the data.
-    2.run test file to extract the features for the test data.
-    3.run svm file to train the model and predict.
+    python script.py INPUT_DIR(as absolute path)  OUTPUT_DIR(also as absolute path)
 <hr />
 
 ### Libraries 📙
