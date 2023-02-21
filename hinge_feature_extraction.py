@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-
-import imutils
 from PIL import Image, ImageEnhance
 import cv2
-import matplotlib.pyplot as plt
 import numpy as np
 
 

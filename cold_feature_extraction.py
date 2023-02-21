@@ -1,8 +1,6 @@
 
-import imutils
 from PIL import Image, ImageEnhance
 import cv2
-import matplotlib.pyplot as plt
 import numpy as np
 
 N_RHO_BINS = 7
