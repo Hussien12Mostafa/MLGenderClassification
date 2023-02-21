@@ -29,7 +29,10 @@ Hope you find this notebook helpful and easy to read.
 
 Please, contact me if you need any help in this notebook. or even if you have any improvements to apply on this problem.
 
+[Linkedin](https://www.linkedin.com/in/hussien-awad-b6343a21a/)
 
+
+[E-mail](hussienmostafa8888@gmail.com)
 
 
 
