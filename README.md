@@ -1,6 +1,8 @@
 Handwriting-Based Gender Classification System using machine learning
 
-    TIP you can estimate the gender using openCV only.
+    TIP you can estimate the gender using openCV and skimage only.
+
+Data Set is CMP23 in kaggle (https://www.kaggle.com/datasets/essamwisamfouad/cmp23-handwritten-males-vs-females)
 
 Project objective
 
@@ -17,6 +19,17 @@ Project Pipeline:
   4. in svm.ipynb here i used svm model to train data set with features hinge only once and cold features only once and hinge and cold features togther.
 
   5. i found hinge only is high accuracy in test data.
+
+
+
+Cridits:
+Eng. Hussien Mostafa
+
+Hope you find this notebook helpful and easy to read.
+
+Please, contact me if you need any help in this notebook. or even if you have any improvements to apply on this problem.
+
+
 
 
 
